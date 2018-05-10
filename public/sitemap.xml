@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sigon-lang.githup.io/docs/</loc>
+    <loc>https://sigon-lang.github.io/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sigon-lang.githup.io/docs/_index/</loc>
+    <loc>https://sigon-lang.github.io/docs/_index/</loc>
   </url>
   
 </urlset>

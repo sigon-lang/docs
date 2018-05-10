@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sigon Lang</title>
-    <link>https://sigon-lang.githup.io/docs/</link>
+    <link>https://sigon-lang.github.io/docs/</link>
     <description>Recent content on Sigon Lang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://sigon-lang.githup.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sigon-lang.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://sigon-lang.githup.io/docs/_index/</link>
+      <link>https://sigon-lang.github.io/docs/_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sigon-lang.githup.io/docs/_index/</guid>
+      <guid>https://sigon-lang.github.io/docs/_index/</guid>
       <description>
 
 &lt;h1 id=&#34;documentação:3976528693a0108357f4928017600865&#34;&gt;Documentação&lt;/h1&gt;

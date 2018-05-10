@@ -1,7 +1,8 @@
-baseURL = "https://sigon-lang.githup.io/docs/"
+baseURL = "https://sigon-lang.github.io/docs/"
 languageCode = "en-us"
 title = "Sigon Lang"
 theme = "hugo-theme-learn"
+publishDir = "public"
 
 # For search functionnality
 [outputs]
