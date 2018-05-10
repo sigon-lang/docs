@@ -1,0 +1,9 @@
+baseURL = "http://apps.substractum.com.br/cadu/"
+languageCode = "en-us"
+title = "Documentação CADU"
+theme = "hugo-theme-learn"
+
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
