@@ -1,6 +1,6 @@
-baseURL = "http://apps.substractum.com.br/cadu/"
+baseURL = "https://sigon-lang.githup.io/docs/"
 languageCode = "en-us"
-title = "Documentação CADU"
+title = "Sigon Lang"
 theme = "hugo-theme-learn"
 
 # For search functionnality
